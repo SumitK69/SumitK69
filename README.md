@@ -55,4 +55,4 @@ Hi, I'm <a href = "https://github.com/SumitK69">Sumit khobragade</a>, a passiona
 
 
 <div>
-<img alt = "gif" align = "right" src="./materials/gif/code.gif"></div>
+<img alt = "gif" align = "right" src="./materials/gif/code.gif" width = "500"/></div>
