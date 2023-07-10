@@ -27,6 +27,8 @@ Hi, I'm <a href = "https://github.com/SumitK69">Sumit khobragade</a>, a passiona
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="Visual studio code" src="https://img.shields.io/badge/Visual studio code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+
 
 
 </p>
@@ -49,6 +51,9 @@ Hi, I'm <a href = "https://github.com/SumitK69">Sumit khobragade</a>, a passiona
 
 <a href="https://discord.com/users/sumit6980"  target="_blank"> 
 <img align = "left"  src="./materials/social media files/discord-color.svg" width = "50px"  alt = "linked in"  height = "50"/>
+</a>
+<a href="https://dev.to/sumitk69"  target="_blank"> 
+<img align = "left" src="./materials/social media files/devdotto-color.svg" width = "50px"  alt = "linked in"  height = "50"/>
 </a>
 
 </div>
