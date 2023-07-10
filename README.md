@@ -1,1 +1,2 @@
-# SumitK69
+
+![Alt text](./github_banner.jpg)
