@@ -53,7 +53,7 @@ Hi, I'm <a href = "https://github.com/SumitK69">Sumit khobragade</a>, a passiona
 <img align = "left"  src="./materials/social media files/discord-color.svg" width = "50px"  alt = "linked in"  height = "50"/>
 </a>
 <a href="https://dev.to/sumitk69"  target="_blank"> 
-<img align = "left" src="./materials/social media files/devdotto-color.svg" width = "50px"  alt = "linked in"  height = "50"/>
+<img align = 'center' src="./materials/social media files/devdotto-color.svg" style="background-color: white; "width = "50px"  alt = "linked in"  height = "50"/>
 </a>
 
 </div>
